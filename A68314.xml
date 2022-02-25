@@ -1,0 +1,1777 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A table of all the principall matters and wordes conteined in the booke Of the office of iustices of peace compiled by Master Lambard digested and contriued vnder apt titles, obseruing the alphabeticall order / deuised by Christopher Powell of Graies Inne, gent.</title>
+            <author>Powell, Christopher, of Gray's Inn.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1583</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68314</idno>
+            <idno type="STC">STC 15164a.5</idno>
+            <idno type="STC">ESTC S4731</idno>
+            <idno type="EEBO-CITATION">23829852</idno>
+            <idno type="OCLC">ocm 23829852</idno>
+            <idno type="VID">22824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1835:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A table of all the principall matters and wordes conteined in the booke Of the office of iustices of peace compiled by Master Lambard digested and contriued vnder apt titles, obseruing the alphabeticall order / deuised by Christopher Powell of Graies Inne, gent.</title>
+                  <author>Powell, Christopher, of Gray's Inn.</author>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>For Rafe Nevvberie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1583.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: A⁸.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lambarde, William, 1536-1601. --  Eirenarcha, or, Of the office of the justices of peace --  Indexes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_contents">
+            <pb facs="tcp:22824:1"/>
+            <pb facs="tcp:22824:1"/>
+            <head>A TABLE OF ALL the principall matters and wordes conteined in the Booke of the Office of Iuſtices of Peace, compiled by Maſter Lambard, di<g ref="char:EOLhyphen"/>geſted and contriued vnder apt Titles, obſeruing the Al<g ref="char:EOLhyphen"/>phabeticall order;</head>
+            <byline>Deuiſed by <hi>Chriſtopher Powell</hi> of Graies Inne, Gent.</byline>
+            <div n="A" type="part">
+               <head>A</head>
+               <list>
+                  <item>Abittration. Fol. 450.</item>
+                  <item>
+                     <hi>¶ Acceſſaries.</hi>
+                     <list>
+                        <item>Howe many ſortes of them. 257.</item>
+                        <item>Who be acceſſaries. 258, 259, 260.</item>
+                        <item>By receiuing of fellons. 397.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Action.</hi>
+                     <list>
+                        <item>Brought before the Iuſtice of Peace. 408.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Addition.</hi>
+                     <list>
+                        <item>In Informations. 406.</item>
+                        <item>In Inditementes. 63, 87, 388.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Affray.</hi>
+                     <list>
+                        <item>The difference betwéene Affray and an Aſſault. 134.</item>
+                        <item>The deriuation thereof. 134.</item>
+                        <item>The dutie of the lookers thereon. 140.</item>
+                        <item>The dutie of an Officer that ſéeth or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eſireth it. 141.</item>
+                        <item>Made vpon an Officer. 143.</item>
+                        <item>The Officer may commaunde aſ<g ref="char:EOLhyphen"/>ſiſtance, &amp;c. 143.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Agnus Dei,</hi> &amp; other Romiſh ſuperſtitions. 197, 319.</item>
+                  <item>
+                     <hi>¶ Alehouſes.</hi> 266. 494. Sée forfaiture.</item>
+                  <item>
+                     <hi>¶ Ambition</hi> augmenteth the number of Iuſtices of Peace. 37.</item>
+                  <item>
+                     <hi>¶ Amerciaments.</hi>
+                     <list>
+                        <item>In countie courtes. 272.</item>
+                        <item>Of ſuch as make default at the Seſſions. 303.</item>
+                        <item>One Iuſtice may not amerce his companion. 294.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Apparance.</hi>
+                     <list>
+                        <item>Who ought to appeare at the Seſ<g ref="char:EOLhyphen"/>ſions. 294.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Apparell.</hi> 373. 379. 469.
+<list>
+                        <item>Appeales before the Iuſtices of peace at the Seſſions. 406.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Apprentices, ſeruauntes and labourers.</hi> 191, 370, 371, 372. Sée more in Laborers.</item>
+                  <item>
+                     <hi>¶ Approuements</hi> 449.</item>
+                  <item>
+                     <hi>¶ Archerie.</hi> 378.</item>
+                  <item>
+                     <hi>¶ Arreſt.</hi>
+                     <list>
+                        <item>Without requeſt. 99.</item>
+                        <item>
+                           <pb facs="tcp:22824:2"/>Without warrant. 100.</item>
+                        <item>The Iuſtice refuſeth to binde him after arreſt. 100.</item>
+                        <item>What arreſt is. 100.</item>
+                        <item>What perſons may be arreſted. 102</item>
+                        <item>The ende thereof. 102.</item>
+                        <item>Howe it may be diſcharged. 103.</item>
+                        <item>After a <hi>Superſedeas.</hi> 108.</item>
+                        <item>Made by the ſeruantes of the Iu<g ref="char:EOLhyphen"/>ſtices. 181. Sée Gaole.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Ariſtotles</hi> counſell in ma<g ref="char:EOLhyphen"/>king lawes. 63.</item>
+                  <item>
+                     <hi>¶ Arraignment.</hi>
+                     <list>
+                        <item>Of a priſoner after diſmiſſion. 437.</item>
+                        <item>The diuerſitie betwéene Arraign<g ref="char:EOLhyphen"/>ment and Trauerſe. 445.</item>
+                        <item>Whereof it commeth. 476</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Armie</hi> and how manie men make an armie. 183.</item>
+                  <item>
+                     <hi>¶ Armour.</hi> 379. 380.</item>
+                  <item>
+                     <hi>¶ Aſſault what it is.</hi> 135. Sée more in Battery.</item>
+                  <item>
+                     <hi>¶ Aſſiſe of bread and ale.</hi> 357.</item>
+                  <item>
+                     <hi>¶ Aſſiſe of fewell.</hi> 200.</item>
+                  <item>¶ This worde <hi>(Att)</hi> taken for after. 486.</item>
+                  <item>
+                     <hi>¶ Attachement</hi> againſt a Iu<g ref="char:EOLhyphen"/>ſtice. 108.</item>
+                  <item>
+                     <hi>¶ Auerrment.</hi>
+                     <list>
+                        <item>May not be taken againſt a record, and why. 71. Sée more in Trauerſe.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="B" type="part">
+               <head>B</head>
+               <list>
+                  <item>
+                     <hi>¶ Badgers, Drouers. &amp;c.</hi> 496.</item>
+                  <item>
+                     <hi>¶ Bailement.</hi>
+                     <list>
+                        <item>Difference betwéene bailement and mainpriſes and Repleuin. 247. and whereof they be deriued. 247.</item>
+                        <item>What fellons are bailable. 250.</item>
+                        <item>What perſons are bailable. 252.</item>
+                        <item>Manſlaughter bailable, but not murder. 255.</item>
+                        <item>Acceſſaries to fellonies, are baila<g ref="char:EOLhyphen"/>ble. 257.</item>
+                        <item>Of him that is acquit within the yeare. 261.</item>
+                        <item>A rule concerning bailementes. 261.</item>
+                        <item>What Iuſtices may baile priſo<g ref="char:EOLhyphen"/>ners. 261.</item>
+                        <item>The forme of the bailementes. 264.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Bayliefs</hi> muſt attende the Seſſions. 303.</item>
+                  <item>
+                     <hi>¶ Bailifes</hi> of liberties. 337.</item>
+                  <item>
+                     <hi>¶ Bakers.</hi> 357.</item>
+                  <item>
+                     <hi>¶ B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rrat<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> defined. 342.</item>
+                  <item>
+                     <hi>¶ Baſtardi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 270.</item>
+                  <item>
+                     <hi>¶ Batterie.</hi>
+                     <list>
+                        <item>By a Conſtable. 138.</item>
+                        <item>By the Seruaunt of his Maſter or Dame. 372.</item>
+                        <item>In defence of himſelfe or an other. 138.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Beggars childe.</hi> 496. See more in Roagues.</item>
+                  <item>
+                     <hi>¶ Bigamie.</hi> 451.</item>
+                  <item>
+                     <hi>¶ Bill of exception.</hi> 438.</item>
+                  <item>
+                     <hi>¶ Borowhead, Borſholder, and Tythingman.</hi> 15.</item>
+                  <item>
+                     <hi>¶ Boweſtaues.</hi> 470.</item>
+                  <item>
+                     <hi>¶ Bowyers.</hi> 378.</item>
+                  <item>
+                     <hi>¶ Bracton</hi> reduced the Lawe into Latine. 4.</item>
+                  <item>
+                     <hi>¶ Braſſe and Pewter.</hi> 499.</item>
+                  <item>
+                     <hi>¶ Breache of the peace,</hi> and yet no breache of the band 139.
+<list>
+                        <item>Wherein it conſiſteth. 123.</item>
+                        <item>Without a multitude. 132.</item>
+                        <item>Againſt the Perſon, and howe ma<g ref="char:EOLhyphen"/>ny degrées thereof. 134.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Bridges.</hi> 374.</item>
+                  <item>
+                     <hi>¶ Brewers.</hi> 353. 357.</item>
+                  <item>
+                     <hi>¶ Buckſtalles, Dearchayes and Stalking.</hi> 506.</item>
+                  <item>
+                     <pb facs="tcp:22824:2"/>
+                     <hi>¶ Buggeries</hi> 324.</item>
+                  <item>
+                     <hi>¶ Burgeſſor,</hi> what it is. 221.</item>
+                  <item>
+                     <hi>¶ Burglarie.</hi> 221. 327.</item>
+                  <item>
+                     <hi>¶ Burning of houſes.</hi> 221. 327.</item>
+                  <item>
+                     <hi>¶ Butchers.</hi> 353.</item>
+                  <item>
+                     <hi>¶ Buttes to ſhoote at.</hi> 378.</item>
+               </list>
+            </div>
+            <div n="C" type="part">
+               <head>C.</head>
+               <list>
+                  <item>
+                     <hi>¶ Calues and Kyne.</hi> 351.</item>
+                  <item>
+                     <hi>¶ Cambridge for Canterburie.</hi> 50.</item>
+                  <item>
+                     <hi>¶ Cappes muſt be worne.</hi> 373.</item>
+                  <item>
+                     <hi>¶ Captaines.</hi> 380.</item>
+                  <item>
+                     <hi>¶ Cattell.</hi> 350. 351.</item>
+                  <item>
+                     <hi>¶ Certificate.</hi>
+                     <list>
+                        <item>Of an Inditement of Fellonie. 47 238.</item>
+                        <item>By one out of Commiſſion. 238.</item>
+                        <item>It is in nature of a declaration. 239</item>
+                        <item>For him that ſhalbee bounde Ap<g ref="char:EOLhyphen"/>prentice. 273.</item>
+                        <item>Of a Recogniſſaunce. 297</item>
+                        <item>Howe it muſt be made. 413.</item>
+                        <item>By whom it muſt be ſent. 414.</item>
+                        <item>To the Iuſtices of Peace. 476.</item>
+                        <item>Triall by certificate. 435.</item>
+                        <item>Challenge of the Iurours. 306.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Champertor</hi> defined. 342.</item>
+                  <item>
+                     <hi>¶ Charge at the Seſſions.</hi>
+                     <list>
+                        <item>The auncient order thereof. 311.</item>
+                        <item>The diuiſion thereof. 312.</item>
+                        <item>The maner thereof. 313.</item>
+                        <item>Of Eccleſiaſticall cauſes. 317. 318. 319. &amp;c.</item>
+                        <item>Of laie cauſes. 323.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Chaſtiſement</hi> lawefull by them which haue ciuill or naturall power or auctori<g ref="char:EOLhyphen"/>tie. 136. Sée Huſbande.</item>
+                  <item>
+                     <hi>¶ Cliuage.</hi> 173.</item>
+                  <item>
+                     <hi>¶ Church and Churchyarde.</hi>
+                     <list>
+                        <item>Thoſe that repayre not to the Church. 322. 323.</item>
+                        <item>Church robbers. 323.</item>
+                        <item>Fighting in Churches or Church<g ref="char:EOLhyphen"/>yards. 323.</item>
+                        <item>Faires and Markets in Church<g ref="char:EOLhyphen"/>yards. 323.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Cicero</hi> his aduiſe to Iudges. 65.</item>
+                  <item>
+                     <hi>¶ Clergie.</hi>
+                     <list>
+                        <item>If the Ordinarie be preſent. 450.</item>
+                        <item>Taken from Curpurſe. 221.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Clerke of the peace.</hi>
+                     <list>
+                        <item>His Office and Dutie. 301. His fées. 338. 339. His nomination. 302.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Clerke of the Iuſtice.</hi> 339.</item>
+                  <item>
+                     <hi>¶ Clerke of the Market.</hi> 339.</item>
+                  <item>
+                     <hi>¶ Cloth lynnen and woollen.</hi> 245. 271. 368.</item>
+                  <item>
+                     <hi>¶ Cohertion defined, and why it is vſed.</hi> 67.</item>
+                  <item>
+                     <hi>¶ Commiſſion of the Peace.</hi>
+                     <list>
+                        <item>For diuerſe Shires. 24.</item>
+                        <item>Forme thereof. 39.</item>
+                        <item>When it was firſt deuiſed. 46.</item>
+                        <item>It hath not any certaine tenor or forme 48. 52.</item>
+                        <item>Diuided into thrée partes. 49.</item>
+                        <item>How it may be ſuſpended or deter<g ref="char:EOLhyphen"/>mined. 74.</item>
+                        <item>It ſhall not be ſhewed. 296.</item>
+                        <item>Exceptions taken to it. 51. 52. 53. 54. 56. 185. 186. 187.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Condition.</hi>
+                     <list>
+                        <item>For the good abearing. 131.</item>
+                        <item>Of the Recogniſſance of the peace. 122.</item>
+                        <item>Of the Recogniſſaunce to indite a fellon committed. 207.</item>
+                        <item>Of the bonde for an Alehouſe kée<g ref="char:EOLhyphen"/>per. 267.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Confeſſion of two ſorts.</hi> 426</item>
+                  <item>
+                     <hi>¶ Congruence.</hi>
+                     <list>
+                        <item>Recogniſſance taken by congruence 186.</item>
+                        <item>Proceſſe awarded. 416.</item>
+                        <item>
+                           <pb facs="tcp:22824:3"/>Heare and determine. 440.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Coniuration, Felonie.</hi> 320.</item>
+                  <item>
+                     <hi>¶ Conſpiracie.</hi>
+                     <list>
+                        <item>Puniſhment thereof. 68. 69.</item>
+                        <item>Againſt a Iuſtice of peace. 385. 508.</item>
+                        <item>Vpon Incormation. 405,</item>
+                        <item>The Iudgement therein. 69. 202.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Conſeruators of the Peace</hi>
+                     <list>
+                        <item>Who they are at the common lawe. 11.</item>
+                        <item>Ordinarie, by preſcription, election, ortenure. 16.</item>
+                        <item>Extraordinarie. 18.</item>
+                        <item>They had no iuriſdiction, but co<g ref="char:EOLhyphen"/>hertion onely. 66.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Conſtable.</hi>
+                     <list>
+                        <item>His auctoritie by the common Lawe. 15.</item>
+                        <item>What Fellons he may baile. 15.</item>
+                        <item>His fine for a voluntary eſcape. 144</item>
+                        <item>Hee muſt obey the Iuſtices war<g ref="char:EOLhyphen"/>rant. 72.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Conuenticles,</hi> of what ſorts they be. 173.</item>
+                  <item>
+                     <hi>¶ Corne.</hi> 202. 350. Tranſ<g ref="char:EOLhyphen"/>ported. 353. 496.</item>
+                  <item>
+                     <hi>¶ Coroners.</hi> Their offices at the Seſſions. 302.</item>
+                  <item>
+                     <hi>¶ Countie Courtes.</hi>
+                     <list>
+                        <item>When they be holden. 422.</item>
+                        <item>Plaintes in them. 201.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Croſbowes &amp; handguns.</hi> 203</item>
+                  <item>
+                     <hi>¶ Curriours.</hi> 362.</item>
+                  <item>
+                     <hi>¶ Caſtos Rotulorum.</hi>
+                     <list>
+                        <item>Nominated by the Lorde Chaun<g ref="char:EOLhyphen"/>celor. 31. 299.</item>
+                        <item>His attendance vpon y<hi rend="sup">e</hi> Iuſtices. 57</item>
+                        <item>His office and auctoritie. 295.</item>
+                        <item>The gift of the office. 299.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Curpurſe.</hi> 325.</item>
+                  <item>
+                     <hi>¶ Cutting out of tongues.</hi> 324.</item>
+               </list>
+            </div>
+            <div n="D" type="part">
+               <head>D.</head>
+               <list>
+                  <item>
+                     <hi>¶ Death.</hi>
+                     <list>
+                        <item>Of him which procured an Arreſt. 103.</item>
+                        <item>Of the Prince. 120.</item>
+                        <item>Of the Recogniſer. 121.</item>
+                        <item>Of him at whoſe ſuite the Recog<g ref="char:EOLhyphen"/>niſſaunce was taken. 121.</item>
+                        <item>Of the Sureties. 121.</item>
+                        <item>Of the Iuſtice before reſtitutio<g ref="char:cmbAbbrStroke">̄</g>. 154.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Demurrer.</hi> 437.</item>
+                  <item>
+                     <hi>¶ Deputie.</hi>
+                     <list>
+                        <item>A Iudge of Recorde may not make a deputie. 71.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Difficulties</hi> ariſing before the Iuſtices of peace. 55. 454.</item>
+                  <item>
+                     <hi>¶ Diſcontinuance of proceſſe.</hi>
+                     <list>
+                        <item>By newe Commiſſion. 77.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Diſcretion.</hi>
+                     <list>
+                        <item>Defined, and howe it muſt be vſed. 63. 428. 438.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="E" type="part">
+               <head>E.</head>
+               <list>
+                  <item>
+                     <hi>¶ Eccleſiaſticall cauſes.</hi>
+                     <list>
+                        <item>Which are treaſons, miſpriſions of treaſon, &amp; fellonies in eccleſia<g ref="char:EOLhyphen"/>ſtical cauſes. 317. 318. 319. 320. Sée more in Fellonie and treaſon.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Egges of wildfowle.</hi> 351.</item>
+                  <item>
+                     <hi>¶ Egyptians.</hi> 198. 332.</item>
+                  <item>
+                     <hi>¶ Enditements.</hi>
+                     <list>
+                        <item>Before one warden of the Peace onelie. 22.</item>
+                        <item>What an Enditement is, and whereof it commeth. 383.</item>
+                        <item>Difference betwéene it, and a pre<g ref="char:EOLhyphen"/>ſentment. 383.</item>
+                        <item>They muſt be peruſed by the Iuſti<g ref="char:EOLhyphen"/>ces. 384.</item>
+                        <item>They may be amended. 384.</item>
+                        <item>
+                           <pb facs="tcp:22824:3"/>When they muſt be co<g ref="char:cmbAbbrStroke">̄</g>menced. 385.</item>
+                        <item>Ioynt and ſeuerall. 386. 414.</item>
+                        <item>Fine things requiſite in them. 386.</item>
+                        <item>Name and Surname in Endite<g ref="char:EOLhyphen"/>ments. 386.</item>
+                        <item>Additions in them. 63. 87. 388.</item>
+                        <item>Place wherof the partie is, or was. 388.</item>
+                        <item>
+                           <hi>Alias dictus.</hi> 389.</item>
+                        <item>Day and yeare when the offence was committed. 389.</item>
+                        <item>Place and Countie wherein the of<g ref="char:EOLhyphen"/>fence was done. 391.</item>
+                        <item>Computation of the yeare of our Lorde God. 390.</item>
+                        <item>Name of the perſon to whom the offence was done. 392.</item>
+                        <item>Of the goods of the Church. 393.</item>
+                        <item>Goods of the Perſon. 393.</item>
+                        <item>Goods of a corporation. 393.</item>
+                        <item>Goods of Executors. 393.</item>
+                        <item>Enditement <hi>quod A. furatus eſt ru<g ref="char:EOLhyphen"/>nicam cuiuſdam Ignoti.</hi> 393.</item>
+                        <item>Coate Armour in a Churche. 393.</item>
+                        <item>Graueſtone. 394.</item>
+                        <item>Goods bayled. 394.</item>
+                        <item>Name and value of the thing ta<g ref="char:EOLhyphen"/>ken. 394.</item>
+                        <item>Of things liuing or dead, Diuer<g ref="char:EOLhyphen"/>ſitie. 394.</item>
+                        <item>
+                           <hi>Precij &amp; non ad valentiam, &amp;c con<g ref="char:EOLhyphen"/>tra, &amp;c.</hi> 395.</item>
+                        <item>Coyne and money. 395.</item>
+                        <item>The maner of the fact, &amp;c. 396.</item>
+                        <item>Acceſſarie. 397.</item>
+                        <item>The nature of the Offence, &amp;c. 397.</item>
+                        <item>For taking of Trées. 398.</item>
+                        <item>Of Mayhme. 399.</item>
+                        <item>
+                           <hi>Contra formam Statuti.</hi> 399.</item>
+                        <item>In the Sheriffes turne. 400. 417.</item>
+                        <item>In Léetes. 401.</item>
+                        <item>For killing of a Hart, 401.</item>
+                        <item>Diſcontinuance of proceſſe of the Inditements. 416.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Enquirie.</hi>
+                     <list>
+                        <item>Vpon forcible Entries. 163.</item>
+                        <item>Enquire and not determine. 410.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Epiloge.</hi> 510.</item>
+                  <item>
+                     <hi>¶ Errour.</hi> 55.</item>
+                  <item>
+                     <hi>¶ Eſcape.</hi>
+                     <list>
+                        <item>Of him which made an aſſray. 144.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Eſcheator.</hi> 344. Sée Treſ<g ref="char:EOLhyphen"/>paſſe.</item>
+                  <item>
+                     <hi>¶ Eſtoppell by confeſſion.</hi> 427.</item>
+                  <item>
+                     <hi>¶ Eſtreates.</hi>
+                     <list>
+                        <item>Controlled by the Iuſtices. 202.</item>
+                        <item>Howe they muſt bee leuied. 464. 467.</item>
+                        <item>For the wages of the Iuſtices. 466.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Example.</hi>
+                     <list>
+                        <item>Euill examples oftentimes doe followe of good Lawes. 37. 429.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Examination.</hi>
+                     <list>
+                        <item>Of Fellons. 205. 208.</item>
+                        <item>Of Attorneys and women couert. 210.</item>
+                        <item>Of Somners and viewers. 210</item>
+                        <item>The triall thereby. 431.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Execution.</hi>
+                     <list>
+                        <item>For the Queene. 458.</item>
+                        <item>For the Informer. 469.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Extortion of Fees.</hi> 337. 338. 339. 340. Sée Treſpaſſe.</item>
+               </list>
+            </div>
+            <div n="F" type="part">
+               <head>F.</head>
+               <list>
+                  <item>
+                     <hi>¶ Falſe Impriſonment.</hi> Sée Arreſt.</item>
+                  <item>
+                     <hi>¶ Fewell.</hi> 200.</item>
+                  <item>
+                     <hi>¶ Fellons.</hi>
+                     <list>
+                        <item>Reſerued till the Gaole deliuerie. 295.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Fellonie.</hi>
+                     <list>
+                        <item>In the Sonne which caried his ſicke Father into the colde. 398,</item>
+                        <item>
+                           <pb facs="tcp:22824:4"/>So called <hi>a fellaeo animo.</hi> 213.</item>
+                        <item>In doing execution after <hi>Certiorari.</hi> 412.</item>
+                        <item>Not triable before the Iuſtices of Peace. 446.</item>
+                        <item>To conceale hunting in the night. 193. 328.</item>
+                        <item>To kill one attainted in a Premu<g ref="char:EOLhyphen"/>nire. 213.</item>
+                        <item>In Phiſician or Surgean vnſkil<g ref="char:EOLhyphen"/>full, &amp;c. 217</item>
+                        <item>In the mother that killeth her new borne childe. 217</item>
+                        <item>Poyſoning. 218. 324.</item>
+                        <item>Robbing 220. 325.</item>
+                        <item>Breaking of houſes. 220.</item>
+                        <item>Burning of houſes. 221. 222. 327.</item>
+                        <item>For ſtealing his owne goods. 223.</item>
+                        <item>Taking of Pigeons or young Goſhawkes. 224.</item>
+                        <item>Taking domeſtical pullin. 224.</item>
+                        <item>Taking fruite, trées, or corne not growing. 225.</item>
+                        <item>Clipping of ſheepe, and taking the ſkinnes. 214.</item>
+                        <item>In a Carier. 225</item>
+                        <item>To take Plate out of a Tauerne. 226.</item>
+                        <item>In the gueſt that ſtealeth the ſhéeres 226.</item>
+                        <item>In ſeruants that ſteale away goods deliuered to them. 226. 326.</item>
+                        <item>Coniuration and ſorcerie. 320.</item>
+                        <item>Church robbing. 323.</item>
+                        <item>Killing one by chance medley. 324.</item>
+                        <item>Cutting out tongues and pulling out of eyes. 324.</item>
+                        <item>In committing buggerie. 324.</item>
+                        <item>In the Gaoler. 324.</item>
+                        <item>Rape. 324.</item>
+                        <item>Taking violentlie away, Maide Widowe or wife. 324.</item>
+                        <item>Cutpurſe and Boothrobber. 325.</item>
+                        <item>In the Purueyor. 325. 326.</item>
+                        <item>For unbeaſeling of Hawkes. 326.</item>
+                        <item>For enlarging one endited of trea<g ref="char:EOLhyphen"/>ſon. 327.</item>
+                        <item>For deſtroying or taking of caſtels. 327.</item>
+                        <item>For multiplication of golde or ſil<g ref="char:EOLhyphen"/>uer. 328.</item>
+                        <item>For conueying ſhéepe out of the realme the ſeconde time. 328.</item>
+                        <item>For ſlaunderous deuiſes againſt her maieſtie. 329.</item>
+                        <item>In a rebellious aſſemblie. 329.</item>
+                        <item>Souldiour departeth without li<g ref="char:EOLhyphen"/>cence. 331.</item>
+                        <item>Counterfaite Egyptians. 198. 332.</item>
+                        <item>In Roagues after burning in the eare. 332.</item>
+                        <item>Fellonies omitted in the charge. 332.</item>
+                        <item>Sée more for fellonies, in Mur<g ref="char:EOLhyphen"/>ther, and manſlaughter.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Fines.</hi>
+                     <list>
+                        <item>For the Quéene. 459.</item>
+                        <item>The Sherife is accomptable for all fines. 460.</item>
+                        <item>Impriſonment for the fine. 460.</item>
+                        <item>Whereof it commeth. 460.</item>
+                        <item>Difference betwéene a fine and a<g ref="char:EOLhyphen"/>merciament. 460.</item>
+                        <item>By whom it muſt be aſſeſſed. 461.</item>
+                        <item>At the kinges will and pleaſure. 462.</item>
+                        <item>They ought to be reaſonable. 463.</item>
+                        <item>They muſt be aſſeſſed openly. 463.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Fiſh and fiſhermen</hi> 271, 352, 353, 354, 355.</item>
+                  <item>
+                     <hi>¶ Flax and hempe.</hi>
+                     <list>
+                        <item>Who muſt ſowe hempe ſéede. 369.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Fleſh.</hi>
+                     <list>
+                        <item>Forbidden in Lent. 356.</item>
+                        <item>Licence to eate it. 338.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Forcible entrie.</hi>
+                     <list>
+                        <item>The ſtatutes thereof. 145, 146, 147.</item>
+                        <item>Forcible reteyning. 145.</item>
+                        <item>Without putting out of the Ten<g ref="char:EOLhyphen"/>nant.
+<pb facs="tcp:22824:4"/>
+152.</item>
+                        <item>Of a common or rent. 153.</item>
+                        <item>What it is. 153.</item>
+                        <item>To an vſe and agréement thereto. 153.</item>
+                        <item>What Iurours ought to enquire thereof. 154.</item>
+                        <item>Not puniſhable. 156.</item>
+                        <item>Holding out with force after thrée yeares poſſeſſion. 156, 157.</item>
+                        <item>The fine thereof, and by whom it ſhalbe aſſeſſed. 160. 171.</item>
+                        <item>Vpon the ſtatute of Northampton. 165.</item>
+                        <item>Force of weapons. 168.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Forfaiture.</hi>
+                     <list>
+                        <item>By the Iuſtice of peace for not gi<g ref="char:EOLhyphen"/>uing notiſe to the Lord Chauncel<g ref="char:EOLhyphen"/>ler of their inſufficiencie of lands. 34.</item>
+                        <item>Of a recogniſſance for the peace.</item>
+                        <item>Sée breach of the peace.</item>
+                        <item>Of a recogniſſance by an alehouſe kéeper. 420.</item>
+                        <item>The mitigation thereof. 463.</item>
+                        <item>Of the goods of him that killeth one, <hi>Se Defendendo.</hi> 216.</item>
+                        <item>By Iuſtices of peace vpo<g ref="char:cmbAbbrStroke">̄</g> ſtatutes. 278, 279, 280. at the common law and ſtatutes. 508, 509, 510.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Foreſtalling and foreſtallers.</hi>
+                     <list>
+                        <item>What a foreſtaller is. 349. 202.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Foure Cardinal vertues. 313.</hi>
+                  </item>
+                  <item>
+                     <hi>¶ Freſh ſute.</hi>
+                     <list>
+                        <item>To arreſt an Affraior. 143.</item>
+                        <item>After a robberie. 185.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Fry of fiſh.</hi> 191. 352.</item>
+                  <item>
+                     <hi>¶ Furtum.</hi>
+                     <list>
+                        <item>Definition thereof by Bracton. 223</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="G" type="part">
+               <head>G</head>
+               <list>
+                  <item>
+                     <hi>¶ Gaole.</hi>
+                     <list>
+                        <item>Who may make a gaole of his owne houſe. 143.</item>
+                        <item>Whither the partie arreſted ſhalbe ſent. 100. 143.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Goldſmythes and gilding.</hi> 365.</item>
+                  <item>
+                     <hi>¶ Good abearing.</hi>
+                     <list>
+                        <item>Wherein it conſiſteth. 124, 125. &amp;c.</item>
+                        <item>Granted by one Iuſtice alone. 128. 266.</item>
+                        <item>The forme of the precept. 129.</item>
+                        <item>The forme of the Recogniſſaunce. 130. See more in Suretie.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="H" type="part">
+               <head>H.</head>
+               <list>
+                  <item>
+                     <hi>¶ Habeas Corpus.</hi> 422</item>
+                  <item>
+                     <hi>¶ Harneſſe.</hi>
+                     <list>
+                        <item>Who is bounde to kéepe harneſſe. 233.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Hares traced.</hi> 348. Harueſt time. 372.</item>
+                  <item>
+                     <hi>¶ Hawke embeaſelled.</hi> 326.</item>
+                  <item>
+                     <hi>¶ Hawkes egges.</hi> 347.</item>
+                  <item>
+                     <hi>¶ Hawking in Corne.</hi> 201. 348. Hay and Oates. 370.</item>
+                  <item>
+                     <hi>¶ Highwayes.</hi>
+                     <list>
+                        <item>Superuiſors of them muſt preſent, &amp;c. 204.</item>
+                        <item>Who muſt appoint ouerſeers of the workes for repayring of them. 375.</item>
+                        <item>Changing of an hie way. 245.</item>
+                        <item>Money giuen. for repayring of them. 274.</item>
+                        <item>Inquirable in the Seſſions. 494.</item>
+                        <item>No buſhes within 200. foote of them. 341.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Horſes and Mares.</hi>
+                     <list>
+                        <item>Sold or exchaunged within Scot<g ref="char:EOLhyphen"/>land. 328.</item>
+                        <item>Conueied beyond Sea. 381.</item>
+                        <item>Vnder 14. handefuls hie. 381. 433.</item>
+                        <item>Vntolde for after buying. 369.</item>
+                        <item>Put away by Souldiers. 381.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Horſebreade.</hi> 370.</item>
+                  <item>
+                     <hi>¶ Hoſpitall.</hi> 269.</item>
+                  <item>
+                     <pb facs="tcp:22824:5"/>
+                     <hi>¶ Hunting.</hi> 193. See fellony.</item>
+                  <item>
+                     <hi>¶ Huſband.</hi>
+                     <list>
+                        <item>May ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſtiſe his wife. 136. 137.</item>
+                        <item>May haue ſuretie of peace againſt his wife. 88.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Hue and Crie.</hi> 341.</item>
+               </list>
+            </div>
+            <div n="I" type="part">
+               <head>I.</head>
+               <list>
+                  <item>
+                     <hi>¶ Ina, King.</hi> 183.</item>
+                  <item>
+                     <hi>¶ Inditements.</hi> Sée Endite<g ref="char:EOLhyphen"/>ments.</item>
+                  <item>
+                     <hi>¶ In Feſto.</hi>
+                     <list>
+                        <item>The expoſition thereof. 390.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Information.</hi>
+                     <list>
+                        <item>By priuate perſons. 404.</item>
+                        <item>The proceſſe thereupon. 404.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Informor and promotor.</hi> 340. 495. 469. Sée Othe.</item>
+                  <item>
+                     <hi>¶ Ingroſſer.</hi>
+                     <list>
+                        <item>What is the ſignification thereof. 349.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Inholder.</hi>
+                     <list>
+                        <item>Muſt ſell no litter. 370.</item>
+                        <item>Muſt bake no horſebreade. 369.</item>
+                        <item>Muſt ſell victuals reaſonably. 353.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Inrollements.</hi> 199.</item>
+                  <item>
+                     <hi>¶ Inter pares non eſt poteſtas.</hi> 294.</item>
+                  <item>
+                     <hi>¶ Iſſues vpon the venire facias.</hi> 163.</item>
+                  <item>
+                     <hi>¶ Iudgement.</hi>
+                     <list>
+                        <item>What things are required therein. 453.</item>
+                        <item>Arbitrarie. 454.</item>
+                        <item>Preſcribed. 456.</item>
+                        <item>In conſpiracie. 69.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Iurours and Iuries.</hi>
+                     <list>
+                        <item>Which be not <hi>probi &amp; legales homi<g ref="char:EOLhyphen"/>nes.</hi> 304.</item>
+                        <item>
+                           <hi>Per quos rei veritas, &amp;c.</hi> 305.</item>
+                        <item>Shall haue action againſt the She<g ref="char:EOLhyphen"/>riffe. 305.</item>
+                        <item>Iuries general and particular. 306</item>
+                        <item>
+                           <hi>De Circumſtantibus.</hi> 307.</item>
+                        <item>Not ſworne. 308.</item>
+                        <item>The number of them. 308.</item>
+                        <item>Their concealements. 309.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Iuſtices of the Peace and Quorum.</hi>
+                     <list>
+                        <item>Who they be, and why ſo called. 3.</item>
+                        <item>Why they were ordained. 7. 10. 20.</item>
+                        <item>When they tooke that name. 24.</item>
+                        <item>Chiefe Iuſtice termed <hi>Capitalis Iuſtitia.</hi> 3.</item>
+                        <item>Why Iuſtices of the <hi>Quorum</hi> were choſen. 55.</item>
+                        <item>Diuerſitie betwéene Iuſtices by Commiſſion and Patent. 28.</item>
+                        <item>By whoſe auctoritie they bee ap<g ref="char:EOLhyphen"/>poynted. 26. 39.</item>
+                        <item>They are conſeruatours of Riuers 190. 191.</item>
+                        <item>The nomination of them. 29.</item>
+                        <item>Their oath. 57. 491. 61. 59.</item>
+                        <item>What lands they ought to haue. 30. 34.</item>
+                        <item>What manner of men they ought to be. 32. 35.</item>
+                        <item>Howe many muſt bee in euerie countie. 36.</item>
+                        <item>When their power ceaſeth. 79.</item>
+                        <item>They bee ouerladen with ſtatutes. 38.</item>
+                        <item>Their power comprehended in thrée clauſes of the Commiſſion. 49.</item>
+                        <item>Their power limited and abſolute. 63.</item>
+                        <item>Their iuriſdiction &amp; cohertion 65.</item>
+                        <item>Howe many may hold a Seſſions of the peace. 291.</item>
+                        <item>They be Iudges of Recorde. 69. 72.</item>
+                        <item>Iuſtice of the peace, &amp; afterwardes made Duke, Earle, &amp;c. 79.</item>
+                        <item>The power of one Iuſtice alone. 82, 131, 140.</item>
+                        <item>When they bee but miniſters and
+<pb facs="tcp:22824:5"/>
+when Iudges. 83.</item>
+                        <item>Whether a Iuſtice may make a pre<g ref="char:EOLhyphen"/>cept retornable before himſelfe. 98.</item>
+                        <item>Their rewardes and fées. 276, 277.</item>
+                        <item>The power of two Iuſtices of the peace. 227, 246.</item>
+                        <item>They haue no power out of their owne counties. 156.</item>
+                        <item>Howe they take knowledge of cau<g ref="char:EOLhyphen"/>ſes at the Seſſions. 289.</item>
+                        <item>Sée Notice and oth, and ſée wages.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Iuſtices in byre.</hi> 79.</item>
+               </list>
+            </div>
+            <div n="K" type="part">
+               <head>K</head>
+               <list>
+                  <item>
+                     <hi>¶ King.</hi>
+                     <list>
+                        <item>Ed. the 3. depriued his father. 9.</item>
+                        <item>Hee firſt created wardens of the peace. 7.</item>
+                        <item>King <hi>Ina</hi> his laws againſt théeues. 183.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="L" type="part">
+               <head>L</head>
+               <list>
+                  <item>
+                     <hi>¶ Labourers and ſeruantes.</hi>
+                     <list>
+                        <item>Put away or departing before the ende of his terme. 191. 371.</item>
+                        <item>Their Teſtimoniall of departure. 371.</item>
+                        <item>Refuſing to ſerue. 370.</item>
+                        <item>Not reteinable for leſſe than one yeare. 370.</item>
+                        <item>Vndertaking worke and not finiſh it. Their Wages. 371. 371.</item>
+                        <item>Beating their maiſters or dames. 372. Sée Apprentices.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Larcenie.</hi> 222. 325.</item>
+                  <item>
+                     <hi>¶ Lay cauſes.</hi>
+                     <list>
+                        <item>Which are Treaſons, petie Trea<g ref="char:EOLhyphen"/>ſons &amp; felonies in lay cauſes. 323. 324. 325, 326, 327. &amp;c. Sée more in Treaſon.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Leather.</hi>
+                     <list>
+                        <item>Ingroſſing thereof to ſell it againe. 305.</item>
+                        <item>Searchers and Sealers thereof. 364.</item>
+                        <item>Howe it muſt be tanned. 360. 361.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Leete.</hi> 440.</item>
+                  <item>
+                     <hi>¶ Licence to eate fleſh.</hi> 388.
+<list>
+                        <item>To begge. 244.</item>
+                        <item>For Badgers, Drouers, &amp;c. 496.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Liueries.</hi> 186. 191.</item>
+                  <item>
+                     <hi>¶ Loggwood.</hi> 245.</item>
+               </list>
+            </div>
+            <div n="M" type="part">
+               <head>M</head>
+               <list>
+                  <item>
+                     <hi>¶ Mainpriſe.</hi> Sée Bailment.</item>
+                  <item>
+                     <hi>¶ Mayhme.</hi>
+                     <list>
+                        <item>Howe it may betried. 429.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Manſlaughter.</hi>
+                     <list>
+                        <item>The definition thereof. 212.</item>
+                        <item>No breach of the peace. 139.</item>
+                        <item>The ſortes thereof. 213.</item>
+                        <item>By neceſſitie. 214, 215.</item>
+                        <item>By miſaduenture. 216.</item>
+                        <item>By dooing of an vnlawefull act. 216.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Maſſe.</hi> 319.</item>
+                  <item>
+                     <hi>¶ Meane Actes.</hi>
+                     <list>
+                        <item>Betwéene the making of the com<g ref="char:EOLhyphen"/>miſſion, and notice thereof. 77.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Metonymia.</hi> 3.</item>
+                  <item>
+                     <hi>¶ Miſpriſion of treaſon.</hi> Sée Eccleſiaſticall cauſes and Lay cauſes.</item>
+                  <item>
+                     <hi>¶ Mittimus.</hi>
+                     <list>
+                        <item>The forme teſtifying the holding with force. 161.</item>
+                        <item>What it muſt conteine. 203.</item>
+                        <item>To ſende the priſoner to the Gaole. 208.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Multitude.</hi>
+                     <list>
+                        <item>What number it is, 133.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Multiplication of gold or ſil<g ref="char:EOLhyphen"/>uer.</hi> 328.</item>
+                  <item>
+                     <hi>¶ Murder.</hi>
+                     <list>
+                        <item>What it is, &amp; the deriuation therof.
+<pb facs="tcp:22824:6"/>
+212, 255.</item>
+                        <item>Execution varying from the iudge<g ref="char:EOLhyphen"/>ment is murder. 213.</item>
+                        <item>To kill an outlawed perſon. 213.</item>
+                        <item>To kill one attainted in a premu<g ref="char:EOLhyphen"/>nite. 213.</item>
+                        <item>Iuſtices of Peace may take endite<g ref="char:EOLhyphen"/>mentes thereof. 392. Sée more in fellonie</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Muſters.</hi> 380.</item>
+               </list>
+            </div>
+            <div n="N" type="part">
+               <head>N</head>
+               <list>
+                  <item>
+                     <hi>¶ Names of dignitie.</hi>
+                     <list>
+                        <item>There be thrée degrées of them. 387.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Newes.</hi> 197. 397.</item>
+                  <item>
+                     <hi>¶ Next Iuſtices.</hi>
+                     <list>
+                        <item>The expoſition thereof. 239</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Noble.</hi>
+                     <list>
+                        <item>Who be ſo accompted. 437.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Notice.</hi>
+                     <list>
+                        <item>Iuſtices of Peace muſt giue notice of their inſufficiencie. 342.</item>
+                        <item>The olde commiſſioners muſt haue notice, &amp;c. 77.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="O" type="part">
+               <head>O</head>
+               <list>
+                  <item>
+                     <hi>¶ Obligation.</hi>
+                     <list>
+                        <item>Touching the king and the forme thereof. 111.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Office of the Iuſtices.</hi> 438.</item>
+                  <item>
+                     <hi>¶ Officers and their miſdemea<g ref="char:EOLhyphen"/>nors.</hi> Sée Treſpaſſe.</item>
+                  <item>
+                     <hi>¶ Ordinarie.</hi>
+                     <list>
+                        <item>His dutie at the ſeſſions. 303.</item>
+                        <item>Is not Iudge but miniſter. 451.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Originall writs.</hi>
+                     <list>
+                        <item>The forme of them by <hi>Glanuill, Bra<g ref="char:EOLhyphen"/>cton,</hi> and at this day. 4.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Othe.</hi>
+                     <list>
+                        <item>Of the ſupremacie. 61.</item>
+                        <item>Of the Quéene at her coronation. 6.</item>
+                        <item>Of a Iuſtice of Peace. Sée Iuſtices of the peace.</item>
+                        <item>When Iuſtices were firſt ſworne. 58.</item>
+                        <item>Taken by <hi>Dedimus poteſtatem.</hi> 59.</item>
+                        <item>By whom it was firſt made. 61.</item>
+                        <item>Of him that demaundeth ſuretie of peace. 92.</item>
+                        <item>Of the ſureties for their habilities. 109.</item>
+                        <item>Of the Iudge to excuſe a fault. 507.</item>
+                        <item>Of the informer againſt one ſuſpe<g ref="char:EOLhyphen"/>cted of fellonie. 209.</item>
+                        <item>Of the examinate. 210. 434.</item>
+                        <item>All betwéene 15. and 60. yeares. muſt be ſworne to the peace. 185.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="P" type="part">
+               <head>P</head>
+               <list>
+                  <item>
+                     <hi>¶ Pardon.</hi> 438.</item>
+                  <item>
+                     <hi>¶ Partriches and Pheſantes.</hi> 348. 200.</item>
+                  <item>
+                     <hi>¶ Peace.</hi>
+                     <list>
+                        <item>The ſignification thereof. 4, 5, 6, 7.</item>
+                        <item>Taken for protection, or defence. 6.</item>
+                        <item>Inwarde and outwarde peace. 5.</item>
+                        <item>Statutes for mainteining thereof. 9.</item>
+                        <item>The conſeruation thereof, &amp; where<g ref="char:EOLhyphen"/>in it ſtandeth. 82.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Penall lawes.</hi> 187.</item>
+                  <item>
+                     <hi>¶ Periurie.</hi> 321. 495.</item>
+                  <item>
+                     <hi>¶ Petit Treaſon.</hi>
+                     <list>
+                        <item>If the ſeruant kil his maiſter, or the wife her huſband. 323. Sée treaſon.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Plaintes in countie courtes.</hi> 201.</item>
+                  <item>
+                     <hi>¶ Popes power</hi> muſt not be ex<g ref="char:EOLhyphen"/>told. 318, 493.</item>
+                  <item>
+                     <hi>¶ Populus</hi> conteineth all the Laitie. 7.</item>
+                  <item>
+                     <hi>¶ Poore people.</hi>
+                     <list>
+                        <item>Regiſter booke of them. 103.</item>
+                        <item>
+                           <pb facs="tcp:22824:6"/>Citie or Towne ſurcharged with poore. 244.</item>
+                        <item>Refuſall to giue to the poore. 269.</item>
+                        <item>How the money giuen to the poore is beſtowed. 274.</item>
+                        <item>They muſt be ſet to worke. 373.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Power of the Countie.</hi>
+                     <list>
+                        <item>What that is. 232.</item>
+                        <item>Howe long it muſt attende. 233.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Preachers.</hi>
+                     <list>
+                        <item>Diſturbers of them ſhalbe arreſted. 198. 245.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Precept.</hi> Sée warrant.</item>
+                  <item>
+                     <hi>¶ Premunire.</hi>
+                     <list>
+                        <item>If any promiſe obedience to the ſea of Rome. 318 319.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Preſentment.</hi>
+                     <list>
+                        <item>What it is, and whereof it com<g ref="char:EOLhyphen"/>meth. 383.</item>
+                        <item>It diſcereth from an inditement. 383.</item>
+                        <item>Made by a Iuſtice. 403.</item>
+                        <item>By a Conſtable. 404.</item>
+                        <item>By ſearchers for making tile. 404. Sée Trauerſe.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Priſoners.</hi>
+                     <list>
+                        <item>Collection in Churches for their reliefe. 372.</item>
+                        <item>Taxation for reliefe of them. 496.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Proclamation.</hi>
+                     <list>
+                        <item>To remoue a force. 166.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Proceſſe.</hi>
+                     <list>
+                        <item>Vpon information. 404. 425.</item>
+                        <item>Vpon a riot recorded. 235.</item>
+                        <item>Whereof it is named. 415</item>
+                        <item>The power of making Proceſſe. 416.</item>
+                        <item>In whoſe name it muſt be. 416.</item>
+                        <item>Vppon an inditement of treſpaſſe. 418.</item>
+                        <item>Vpo<g ref="char:cmbAbbrStroke">̄</g> the ſtatutes of highwaies, ly<g ref="char:EOLhyphen"/>ueries, maintainance, archerie and vnlawfull games. 419.</item>
+                        <item>Vppon the ſtatutes of labourers. 420.</item>
+                        <item>Into other ſhires. 421, 424.</item>
+                        <item>Into ſeuerall ſhires. 422.</item>
+                        <item>Vpon treaſons and fellonies 423.</item>
+                        <item>In a Léete. 440.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Proheme of the Author.</hi> 1.</item>
+                  <item>
+                     <hi>¶ Propheſying.</hi>
+                     <list>
+                        <item>To the intent to ſtirre vp rebellion. 320.</item>
+                        <item>Howe long her maieſtie ſhall liue. 320.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Puniſhmentes.</hi>
+                     <list>
+                        <item>Eight ſortes of them. 67.</item>
+                        <item>Why they are ordeined. 67.</item>
+                        <item>Three ſortes at this day. 68.</item>
+                        <item>Of Iuſtices at the common lawe. 506.</item>
+                        <item>By ignorance of the Iuſtices. 507.</item>
+                        <item>For embeaſeling, raſing, or altering of Recordes. 507.</item>
+                        <item>For taking money to doe his office. 508.</item>
+                        <item>For procuring one to bee indited. 508.</item>
+                        <item>Puniſhmentes by ſtatutes. 508. and ſée forfaitures.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Purueiours.</hi> 340. 496. Sée felonie.</item>
+               </list>
+            </div>
+            <div n="R" type="part">
+               <head>R</head>
+               <list>
+                  <item>
+                     <hi>¶ Rape.</hi> 324.</item>
+                  <item>
+                     <hi>¶ Recogniſſance.</hi>
+                     <list>
+                        <item>Taken by preſcription, for the peace. 13.</item>
+                        <item>By Iuſtices of Aſſiſe. 13.</item>
+                        <item>By the Sherife. 13.</item>
+                        <item>By the Iuſtices of Gaole deliuerie. 13.</item>
+                        <item>By the ſteward of the Marſhalſie. 14.</item>
+                        <item>Who may take it. 73.</item>
+                        <item>The circumſtances which be requi<g ref="char:EOLhyphen"/>ſite
+<pb facs="tcp:22824:7"/>
+in taking of it. 109.</item>
+                        <item>What matter it moſt comprehen<g ref="char:EOLhyphen"/>deth. 112.</item>
+                        <item>The forme thereof. 113.</item>
+                        <item>It can not be cancelled after a re<g ref="char:EOLhyphen"/>leaſe. 119. 122.</item>
+                        <item>Of an informer againſt a ſuſpected perſon. 206.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Recorde.</hi>
+                     <list>
+                        <item>It muſt be in writing. 235.</item>
+                        <item>What it is. 70.</item>
+                        <item>It lyeth <hi>inſcrinio pectoris.</hi> 70.</item>
+                        <item>
+                           <hi>Superſede as</hi> is a Recorde. 73.</item>
+                        <item>Of a Riot. 236.</item>
+                        <item>Recording of a Riot. 242.</item>
+                        <item>Of the Peace. 297.</item>
+                        <item>Day to bring it in. 437.</item>
+                        <item>Of Gaole deliuerie. 298.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Regrator defined.</hi> 349.</item>
+                  <item>
+                     <hi>¶ Releaſe.</hi>
+                     <list>
+                        <item>Of the partie to him that is arreſted for the peace. 103.</item>
+                        <item>Of the Iuſtice. 118. 120.</item>
+                        <item>Of the partie. 118. 120.</item>
+                        <item>Of the Quéene. 119.</item>
+                        <item>Of an other Iuſtice. 120.</item>
+                        <item>Of the ſuretie of good abearing. 131.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Repleuin.</hi> Sée Bailement</item>
+                  <item>
+                     <hi>¶ Requeſt.</hi>
+                     <list>
+                        <item>Before arreſt. 99.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Reſtitution of poſſeſſion.</hi>
+                     <list>
+                        <item>The right (or title) is not materiall. 150.</item>
+                        <item>To a Termor or Coppie holder. 152</item>
+                        <item>Without complaint. 152.</item>
+                        <item>To none but him which had actual poſſeſſion. 152.</item>
+                        <item>Of a Common or Rent. 153.</item>
+                        <item>Death of the Iuſtice before Reſti<g ref="char:EOLhyphen"/>tution. 154.</item>
+                        <item>Double or croſſe reſtitution. 155.</item>
+                        <item>To one Ioyntenant alone. 155.</item>
+                        <item>To whom it may be made. 155.</item>
+                        <item>Vpon the writ of Reſtitution. 156.</item>
+                        <item>The warrant to make Reſtitution. 164.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Returne.</hi>
+                     <list>
+                        <item>Of a <hi>Supplicauit.</hi> 115.</item>
+                        <item>Of the writ of proclamation. 169.</item>
+                        <item>Of a <hi>Certiorari.</hi> 116.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Reward and puniſhment of Iuſtices of Peace.</hi> 276. 277. Sée Puniſhments.</item>
+                  <item>
+                     <hi>¶ Riot.</hi>
+                     <list>
+                        <item>Defined, and whereof it commeth. 175.</item>
+                        <item>Things common and conſiderable in Riots. 176. 177.</item>
+                        <item>The power of one Iuſtice therin. 180. 181.</item>
+                        <item>The degrées thereof. 182.</item>
+                        <item>Oppreſſion thereof by 2. Iuſtices. 228.</item>
+                        <item>When the Iuſtices muſt recorde Riots. 236.</item>
+                        <item>Inquirie and certifying of Riots. 237.</item>
+                        <item>The maner howe to recorde it. 242.</item>
+                        <item>The inquirie and forme therof. 421.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Riuers.</hi> 190.</item>
+                  <item>
+                     <hi>¶ Roagues and vagabonds.</hi>
+                     <list>
+                        <item>Aboue 14. yeares of age ſhall bee brought before the Iuſtices. 192.</item>
+                        <item>They ſhalbe ſet to worke. 274.</item>
+                        <item>After they be marked, fall againe to rogiſh life. 332.</item>
+                        <item>Pretending ſkill in Palmeſtrie, telling of deſtinies, &amp;c 344.</item>
+                        <item>Giuing reliefe or harbouring them. 345.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Robberie defined.</hi> 219. Sée Felonie.</item>
+                  <item>
+                     <hi>¶ Robbertſmen.</hi>
+                     <list>
+                        <item>Are mightie théeues. 185.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="S" type="part">
+               <head>S.</head>
+               <list>
+                  <item>
+                     <hi>¶ Sacrament of the Lordes Supper.</hi> 274.</item>
+                  <item>
+                     <pb facs="tcp:22824:7"/>
+                     <hi>¶ Salmons.</hi> 191. 352.</item>
+                  <item>
+                     <hi>¶ Sanctuarie.</hi> 202.</item>
+                  <item>
+                     <hi>¶ Scauage or Sheuage.</hi> 339.</item>
+                  <item>
+                     <hi>¶ Schoolemaſter</hi> which com<g ref="char:EOLhyphen"/>meth not to the Church. 323.</item>
+                  <item>
+                     <hi>¶ Seneca.</hi>
+                     <list>
+                        <item>His reaſon why puniſhment is v<g ref="char:EOLhyphen"/>ſed. 67.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Sermon.</hi> 310.</item>
+                  <item>
+                     <hi>¶ Seruaunts.</hi> Sée Labourers and Apprentices.</item>
+                  <item>
+                     <hi>¶ Seſſions of the peace.</hi>
+                     <list>
+                        <item>The deſcription thereof. 286.</item>
+                        <item>The ſtile thereof. 441.</item>
+                        <item>Whereof they be grounded. 288.</item>
+                        <item>The ſommons to the ſeſſions. 289. 300.</item>
+                        <item>Holden by one Iuſtice. 292.</item>
+                        <item>Where they ſhalbe holden. 292.</item>
+                        <item>Generall, principall, open, or quar<g ref="char:EOLhyphen"/>ter Seſſions. 474.</item>
+                        <item>Howe many there be. 479.</item>
+                        <item>When they ought to be holden. 481</item>
+                        <item>Howe long they ſhall continew. 492.</item>
+                        <item>What matters are referred to the quarter ſeſſions. 293.</item>
+                        <item>Speciall ſeſſions. 50.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Sewers.</hi>
+                     <list>
+                        <item>Commiſſioners of Sewers. 275.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Sheepe.</hi> 369.</item>
+                  <item>
+                     <hi>¶ Shirife.</hi>
+                     <list>
+                        <item>Muſt attende the Iuſtices. 57. 303.</item>
+                        <item>Sée treſpaſſe.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Showmakers.</hi> 363.</item>
+                  <item>
+                     <hi>¶ Soldiours.</hi> 195, 331, 381. Sée felonie and horſes.</item>
+                  <item>
+                     <hi>¶ Sta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re Chamber.</hi>
+                     <list>
+                        <item>The beſt guide &amp; direction for Iu<g ref="char:EOLhyphen"/>ſtices of Peace. 175.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Statutes.</hi>
+                     <list>
+                        <item>Made <hi>pro bono pacis &amp; quieto re<g ref="char:EOLhyphen"/>gimine populi.</hi> 51.</item>
+                        <item>Belonging to Iuſtices of Peace.</item>
+                        <item>Sée the latter table.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Subpena.</hi> 411.</item>
+                  <item>
+                     <hi>¶ Subſidie.</hi> 246.</item>
+                  <item>
+                     <hi>¶ Supplicauit.</hi>
+                     <list>
+                        <item>How the Iuſtice ſhall returne it. 115.</item>
+                        <item>Execution thereof. 110.</item>
+                        <item>Called in olde time, <hi>breue de mi<g ref="char:EOLhyphen"/>nis.</hi> 83. Sée Suretie.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Superſedeas.</hi>
+                     <list>
+                        <item>To diſcharge a Precept. 104.</item>
+                        <item>The forme thereof 105.</item>
+                        <item>Out of the Quéenes court. 108.</item>
+                        <item>To diſcharge the Sommons of the Seſſions. 292.</item>
+                        <item>After a <hi>Certiorari.</hi> 411.</item>
+                        <item>To ſtay proceſſe of outlarie. 423.</item>
+                        <item>To diſcharge the good habearing. 131.</item>
+                        <item>It diſchargeth apparance. 120.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Suretie of peace.</hi>
+                     <list>
+                        <item>What it is 83. Without requeſt. 86</item>
+                        <item>Newe ſuretie after breach of the peace. 86. 122.</item>
+                        <item>By the procurement of a Iuſtice. 86.</item>
+                        <item>Refuſed by the Iuſtice. 87.</item>
+                        <item>For whome and againſt whome. 87. 88.</item>
+                        <item>For what cauſe it may be required. 91.</item>
+                        <item>Againſt an impotent man. 93.</item>
+                        <item>What men the ſureties muſt bee. 109.</item>
+                        <item>By gage or pledge. 110.</item>
+                        <item>By obligation. 110.</item>
+                        <item>How it may be diſcharged. See Releaſe &amp; Superſedeas.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Suſpition.</hi>
+                     <list>
+                        <item>Howe it is conceiued, by <hi>Bracton.</hi> 127.</item>
+                        <item>
+                           <pb facs="tcp:22824:8"/>A warrant to arreſt one vpon ſuſ<g ref="char:EOLhyphen"/>pition. 189.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Swearing.</hi> Sée Othe.</item>
+               </list>
+            </div>
+            <div n="T" type="part">
+               <head>T.</head>
+               <list>
+                  <item>
+                     <hi>¶ Tanners.</hi> Sée Leather.</item>
+                  <item>
+                     <hi>¶ Tauerne keepers.</hi> 496.</item>
+                  <item>
+                     <hi>¶ Teſtimoniall.</hi> 192. 244. 269. Sée Beggars and Licence.</item>
+                  <item>
+                     <hi>¶ Thirdeborowes.</hi>
+                     <list>
+                        <item>Who they be, and why ſo called. 15.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Tillage.</hi>
+                     <list>
+                        <item>They that haue the Demeſnes of Religious houſes muſt kéepe til<g ref="char:EOLhyphen"/>lage. 368. 369.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Tile making.</hi> 195. 365.</item>
+                  <item>
+                     <hi>¶ Tithes.</hi> 270.</item>
+                  <item>
+                     <hi>¶ Tolle.</hi> 369.</item>
+                  <item>
+                     <hi>¶ Trauerſe.</hi>
+                     <list>
+                        <item>Of an Inditement with force. 159.</item>
+                        <item>Of the Recorde of a Iuſtice. 181. 234. 236.</item>
+                        <item>What it is, and the deriuation thereof. 438.</item>
+                        <item>Of a Preſentment. 440.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Treaſon.</hi>
+                     <list>
+                        <item>To extoll forrein power. 317. 318.</item>
+                        <item>To refuſe the othe of her Maie<g ref="char:EOLhyphen"/>ſties Supremacie. 317.</item>
+                        <item>To diſſwade her Subiects from obedience. 318.</item>
+                        <item>For the ſeruant to kill his maſter, &amp;c. 323.</item>
+                        <item>Which is inquirable by the Iuſti<g ref="char:EOLhyphen"/>ces. 52.</item>
+                        <item>Puniſheable by one Iuſtice. 53.</item>
+                        <item>Sée Eccleſiaſticall cauſes and Lay cauſes, and Petit Treaſon.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Treſpaſſes and Miſdemeanors</hi> inquirable by the Iuſtices of Peace at the Seſſions.
+<list>
+                        <item>For aſſault and beating. 333.</item>
+                        <item>Of the Eſcheator. 334</item>
+                        <item>Of the Sheriffes and their Mini<g ref="char:EOLhyphen"/>ſters. 335. 336.</item>
+                        <item>Of the Gaoler. 336.</item>
+                        <item>Of the Coroner. 337.</item>
+                        <item>Of the Ordinarie. 337.</item>
+                        <item>Of the Parſon or Vicar. 338.</item>
+                        <item>Of the Clerke of the Peace. 338.</item>
+                        <item>Of the Iuſtices Clerke. 339.</item>
+                        <item>Of the Clerke of the Market, 339.</item>
+                        <item>Of any Iurour. 343.</item>
+                        <item>For giuing Ly<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eries to Compa<g ref="char:EOLhyphen"/>nies. 343.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Triall.</hi>
+                     <list>
+                        <item>By Confeſſion. 426.</item>
+                        <item>By Diſcretion. 428.</item>
+                        <item>Vpon Examination. 451.</item>
+                        <item>By Certificate. 434.</item>
+                        <item>By Trauerſe. 436.</item>
+                        <item>By Péeres. 436.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Troupe of men, howe many.</hi> 183.</item>
+                  <item>
+                     <hi>¶ Truce defined.</hi> 82.</item>
+                  <item>
+                     <hi>¶ Turne of the Sheriffe.</hi>
+                     <list>
+                        <item>When it muſt be holden. 400.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="V" type="part">
+               <head>V.</head>
+               <list>
+                  <item>
+                     <hi>¶ Venatoribus</hi> for <hi>viatoribus.</hi> 51</item>
+                  <item>
+                     <hi>¶ Venite facias.</hi>
+                     <list>
+                        <item>To enquire of forcible entrie. 162</item>
+                        <item>
+                           <hi>Tot Matronas.</hi> 450.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Veſſels.</hi> 358. 359.</item>
+                  <item>
+                     <hi>¶ Victuals and Victualers.</hi> 186. 353.</item>
+                  <item>
+                     <hi>¶ Vis</hi> defined by <hi>Tullie</hi> and <hi>Bra<g ref="char:EOLhyphen"/>cton.</hi> 9.</item>
+                  <item>
+                     <hi>¶ Vnlawfull aſſemblie.</hi>
+                     <list>
+                        <item>Of women, or Infants. 179.</item>
+                        <item>What it is. 175.</item>
+                        <item>Of Iurours. 180.</item>
+                        <item>Of a Corporation. 180.</item>
+                        <item>Notice thereof within 24. howres. 273.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <pb facs="tcp:22824:8" rendition="simple:additions"/>
+                     <hi>¶ Vnlawfull games.</hi> 194.</item>
+                  <item>
+                     <hi>¶ Vnder ſhirife.</hi>
+                     <list>
+                        <item>Hath none authoritie in the pre<g ref="char:EOLhyphen"/>ſence of the high Shirife. 236.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Vſurie.</hi> 348.</item>
+                  <item>
+                     <hi>¶ Vtlagarie.</hi>
+                     <list>
+                        <item>Vpon inditementes. 417.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="W" type="part">
+               <head>W</head>
+               <list>
+                  <item>
+                     <hi>¶ Wages of the Iuſtices.</hi>
+                     <list>
+                        <item>Howe they are to be leauied. 466.</item>
+                        <item>Howe many ſhall haue wages. 505.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Wainlinges.</hi> 493.</item>
+                  <item>
+                     <hi>¶ Warrant.</hi>
+                     <list>
+                        <item>Muſt be obeyed. 72. 101.</item>
+                        <item>The forme thereof vpon a <hi>Suppli<g ref="char:EOLhyphen"/>cauit.</hi> 84.</item>
+                        <item>By worde to finde ſuretie. 93.</item>
+                        <item>The forme thereof in engliſh. 94.</item>
+                        <item>What matter it muſt comprehende 96.</item>
+                        <item>The date thereof. 96.</item>
+                        <item>To whom it may be directed. 97.</item>
+                        <item>To ſommon the ſeſſions. 290.</item>
+                        <item>Howe and by whom it may be exe<g ref="char:EOLhyphen"/>cuted. 97.</item>
+                        <item>Shewed by the officer. 98.</item>
+                        <item>Retornable before the ſame Iuſtice 98.</item>
+                        <item>To arreſt one in an other countie. 100.</item>
+                        <item>To make reſtitution. 164.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>¶ Watches.</hi> 185. 341.</item>
+                  <item>
+                     <hi>¶ Watermen.</hi> 204, 404.</item>
+                  <item>
+                     <hi>¶ Waxe.</hi> 199. 366.</item>
+                  <item>
+                     <hi>¶ Weapons which be forcible.</hi> 168.</item>
+                  <item>
+                     <hi>¶ Weares.</hi> 191.</item>
+                  <item>
+                     <hi>¶ Weights and Meaſures.</hi> 537. 339.</item>
+                  <item>
+                     <hi>¶ Wood.</hi> 271.</item>
+                  <item>
+                     <hi>¶ Woolles.</hi> 332. 351. 368.</item>
+                  <item>
+                     <hi>¶ Wynes.</hi> 356.</item>
+               </list>
+            </div>
+            <div n="Y" type="part">
+               <head>Y.</head>
+               <list>
+                  <item>
+                     <hi>¶ Yarne.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for <hi>Rafe Nevvberie.</hi>
+            </p>
+            <p>1583.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
